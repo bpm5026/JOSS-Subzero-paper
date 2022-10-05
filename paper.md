@@ -1,5 +1,5 @@
 ---
-title: 'Gala: A Python package for galactic dynamics'
+title: 'SubZero: Lifecycle representation of sea ice floes using a new discrete element model'
 tags:
   - Matlab
   - Oceanography
