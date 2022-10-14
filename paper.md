@@ -11,6 +11,7 @@ authors:
     equal-contrib: true
     affiliation: 1
   - name: Georgy Manucharyan
+    orcid: 0000-0001-7959-2675
     equal-contrib: true # (This is how you can denote equal contributions between multiple authors)
     affiliation: 1
 affiliations:
@@ -24,7 +25,7 @@ bibliography: paper.bib
 
 # Summary
 
-SubZero is a conceptually new discrete element sea ice model geared to explicitly simulate the life cycles of individual floes by using elements with time-evolving boundaries. SubZero is being developed as part of an ONR multi-university research initiative to investigate the mathematics and data science for improved physical modeling and prediction of sea ice. This unique model uses parameterizations of floe-scale processes, such as collisions, rafting, ridging, fracturing, and welding. SubZero has already been used for scientific publications [@Manucharyan:2022a]. The source code for Gala has been archived to Zenodo with the linked DOI: ([@Manucharyan:2022b]). Figure \autoref{fig:timeloop} is a schematic representing the SubZero model as a flow chart and what happens over any given time-step.  
+SubZero is a conceptually new discrete element sea ice model geared to explicitly simulate the life cycles of individual floes by using elements with time-evolving boundaries. SubZero is being developed as part of an ONR multi-university research initiative to investigate the mathematics and data science for improved physical modeling and prediction of sea ice. This unique model uses parameterizations of floe-scale processes, such as collisions, rafting, ridging, fracturing, and welding. SubZero has already been used for scientific publications [@Manucharyan:2022]. The source code for Gala has been archived to Zenodo with the linked DOI: ([@Montemuro:2022]). Figure \autoref{fig:timeloop} is a schematic representing the SubZero model as a flow chart and what happens over any given time-step.  
 
 
 ![Operational flow chart for the SubZero sea ice model. The shaded gray boxes represent the different sections of the program, the red outlined boxes are processes that are executed every at specified intervals, and the black outlined boxes are processes that occur at every time-step.\label{fig:timeloop}](Subzero_timeloop_georgy.png)
