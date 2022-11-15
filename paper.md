@@ -1,16 +1,17 @@
 ---
-title: 'SubZero: Lifecycle representation of sea ice floes using a new discrete element model'
+title: 'SubZero: a Discrete Element Sea Ice Model'
 tags:
-  - Matlab
-  - Oceanography
-  - Discrete Element Methods
   - Sea Ice
+  - Collisions, Fractures, Deformation
+  - Discrete Element Methods
+  - Deformable Polygonal Elements 
+  
 authors:
-  - name: Brandon Montemuro
+  - name: Brandon P. Montemuro
     orcid: 0000-0003-1946-4916
     equal-contrib: true
     affiliation: 1
-  - name: Georgy Manucharyan
+  - name: Georgy E. Manucharyan
     orcid: 0000-0001-7959-2675
     equal-contrib: true # (This is how you can denote equal contributions between multiple authors)
     affiliation: 1
