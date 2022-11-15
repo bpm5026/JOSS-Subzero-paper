@@ -1,10 +1,12 @@
 ---
-title: 'SubZero: a Discrete Element Sea Ice Model'
+title: 'SubZero: a Discrete Element Sea Ice Model that Simulates Floes as Evolving Concave Polygons'
 tags:
-  - Sea Ice
+  - Sea Ice Modeling
   - Collisions, Fractures, Deformation
   - Discrete Element Methods
   - Deformable Polygonal Elements 
+  - Floe Size Distribution
+  - Ice Thickness Distribution
   
 authors:
   - name: Brandon P. Montemuro
