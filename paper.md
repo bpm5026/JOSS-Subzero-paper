@@ -1,5 +1,5 @@
 ---
-title: 'SubZero: a Discrete Element Sea Ice Model that Simulates Floes as Evolving Concave Polygons'
+title: 'SubZero: a Discrete element sea ice model that simulates floes as evolving concave polygons'
 tags:
   - Sea Ice Modeling
   - Collisions, Fractures, Deformation
