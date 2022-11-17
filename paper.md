@@ -47,6 +47,6 @@ SubZero was designed as an alternative to continuous rheology models and existin
 
 # Acknowledgements
 
-B.P.M and G.E.M gratefully acknowledge support from the Office of Naval Research (ONR) grant N00014-19-1-2421. The authors highly appreciate the insightful discussions at the online workshop ``Modeling the Granular Nature of Sea Ice'' organized by the School of Oceanography, University of Washington as part of the ONR MURI project N00014-19-1-2421. The manuscript benefited greatly from the review provided by Skylar Gering.
+B.P.M and G.E.M gratefully acknowledge support from the Office of Naval Research (ONR) grant N00014-19-1-2421. The authors highly appreciate the insightful discussions at the online workshop ``Modeling the Granular Nature of Sea Ice'' organized by the School of Oceanography, University of Washington as part of the ONR MURI project N00014-19-1-2421. The authors thank Skylar Gering for reviewing the publication and the source code.
 
 # References
